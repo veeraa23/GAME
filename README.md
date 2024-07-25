@@ -1,2 +1,2 @@
-# GAME
-rock-paper-scissors
+# rock-paper-scissors
+Game
